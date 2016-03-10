@@ -1,0 +1,28 @@
+name: HeathRoberson.com
+favicon: null
+layout_spectrum: 0.6300147506408393
+typography_spectrum: 0.09383965958841145
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6635383609682322
+  lightness: 0.6813849895261228
+  saturation: 0.06414249283261597
+  rhythmicContrast: 0.08664557989686728
+purpose: []
