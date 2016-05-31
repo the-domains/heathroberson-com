@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-31T13:00:45.254Z'
-dateModified: '2016-05-31T13:00:29.806Z'
+datePublished: '2016-05-31T13:07:47.871Z'
+dateModified: '2016-05-31T13:07:43.373Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-19-programming-python-is-just-fun.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: programming-python-is-just-fun/index.html
 _type: Article
 
