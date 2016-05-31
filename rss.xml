@@ -4,21 +4,21 @@
         <description><![CDATA[Heath Robertson]]></description>
         <link>https://thegrid.ai/heathroberson-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 12:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 13:01:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/heathroberson-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47ecad15-76e9-4011-8674-3f06ec750681.jpg">]]></description>
+            <link>https://thegrid.ai/heathroberson-com/programming-python-is-just-fun/index.html</link>
+            <guid isPermaLink="false">ff5e83d2-1a2b-43ff-8c37-315bc3014782</guid>
+            <pubDate>Tue, 31 May 2016 13:00:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>HeathRobertson.com, Google Apps administration, Web Development, Graphic Desing & Illustration.</p>]]></description>
             <link>https://thegrid.ai/heathroberson-com/f445b8c1-a4ba-482d-ae9f-32e10e04804a/index.html</link>
             <guid isPermaLink="false">f445b8c1-a4ba-482d-ae9f-32e10e04804a</guid>
             <pubDate>Tue, 31 May 2016 12:27:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Home]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/afbc5a0e-b5c0-474e-9c70-c172ddc29911.png">]]></description>
-            <link>https://thegrid.ai/heathroberson-com/programming-python-is-just-fun/index.html</link>
-            <guid isPermaLink="false">ff5e83d2-1a2b-43ff-8c37-315bc3014782</guid>
-            <pubDate>Thu, 19 May 2016 23:01:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
