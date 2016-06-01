@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-31T23:04:49.758Z'
-dateModified: '2016-05-31T23:04:37.882Z'
+datePublished: '2016-06-01T11:30:37.495Z'
+dateModified: '2016-06-01T11:29:41.059Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-19-programming-python-is-just-fun.md
