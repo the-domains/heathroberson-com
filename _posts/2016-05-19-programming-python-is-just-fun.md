@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: The Grand Tetons western Wyoming.
-datePublished: '2016-06-01T11:41:44.821Z'
-dateModified: '2016-06-01T11:39:50.855Z'
+datePublished: '2016-06-01T11:46:40.666Z'
+dateModified: '2016-06-01T11:41:53.165Z'
 title: Tetons
 author:
   - name: Heath Robertson
