@@ -4,7 +4,7 @@
         <description><![CDATA[Heath Robertson]]></description>
         <link>https://thegrid.ai/heathroberson-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 13:07:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 13:10:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/heathroberson-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Code • Design • Art]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Wed, 01 Jun 2016 12:57:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Code Speak]]></title>
+            <description><![CDATA[<article><h1>Code Speak</h1><p>Python</p></article>]]></description>
+            <link>https://thegrid.ai/heathroberson-com/code-speak/index.html</link>
+            <guid isPermaLink="false">fbd52cc7-9e19-416b-bc90-ff6cf582a160</guid>
+            <pubDate>Wed, 01 Jun 2016 13:10:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[About]]></title>
             <description><![CDATA[<article><h1>About</h1><p>Heath Robertson provides residential and recreational real estate sales and acquisition services in Jackson Hole Wyoming. He is a sales associate at Jackson Hole Real Estate Associates and a member of the Wyoming Select Properties team. Heath is a fifth-generation Jackson Hole native, with 14 years of business and marketing experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff1cfa1cfd3e695e51d2894f933561587cd07919.png"></article>]]></description>
             <link>https://thegrid.ai/heathroberson-com/bio/index.html</link>
             <guid isPermaLink="false">8002091d-81eb-4965-86b9-980ae19c6484</guid>
             <pubDate>Wed, 01 Jun 2016 13:07:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Code Speak]]></title>
-            <description><![CDATA[<article><h1>Code Speak</h1><p>Python</p></article>]]></description>
-            <link>https://thegrid.ai/heathroberson-com/code-speak/index.html</link>
-            <guid isPermaLink="false">fbd52cc7-9e19-416b-bc90-ff6cf582a160</guid>
-            <pubDate>Wed, 01 Jun 2016 13:04:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
