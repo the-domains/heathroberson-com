@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-01T13:20:42.217Z'
-dateModified: '2016-06-01T13:19:32.984Z'
+datePublished: '2016-06-01T20:59:40.005Z'
+dateModified: '2016-06-01T13:20:50.855Z'
 title: 'Art & Design'
 author: []
 sourcePath: _posts/2016-06-01-art-and-design.md
