@@ -4,7 +4,7 @@
         <description><![CDATA[Heath Robertson]]></description>
         <link>https://thegrid.ai/heathroberson-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 13:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 13:04:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/heathroberson-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Code • Design • Art]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Wed, 01 Jun 2016 12:57:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bio]]></title>
+            <description><![CDATA[<p>Heath Robertson</p>]]></description>
+            <link>https://thegrid.ai/heathroberson-com/bio/index.html</link>
+            <guid isPermaLink="false">8002091d-81eb-4965-86b9-980ae19c6484</guid>
+            <pubDate>Wed, 01 Jun 2016 13:04:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Code Speak]]></title>
             <description><![CDATA[<article><h1>Code Speak</h1><p>Python</p></article>]]></description>
             <link>https://thegrid.ai/heathroberson-com/code-speak/index.html</link>
             <guid isPermaLink="false">fbd52cc7-9e19-416b-bc90-ff6cf582a160</guid>
             <pubDate>Wed, 01 Jun 2016 13:04:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bio]]></title>
-            <description><![CDATA[<p>Heath Robertson</p>]]></description>
-            <link>https://thegrid.ai/heathroberson-com/bio/index.html</link>
-            <guid isPermaLink="false">8002091d-81eb-4965-86b9-980ae19c6484</guid>
-            <pubDate>Wed, 01 Jun 2016 12:53:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
