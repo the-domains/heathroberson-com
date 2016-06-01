@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Python
-datePublished: '2016-06-01T13:10:04.956Z'
-dateModified: '2016-06-01T13:08:59.045Z'
+datePublished: '2016-06-01T13:11:58.489Z'
+dateModified: '2016-06-01T13:10:12.154Z'
 title: Code Speak
 author: []
 sourcePath: _posts/2016-06-01-code-speak.md
