@@ -4,7 +4,7 @@
         <description><![CDATA[Heath Robertson]]></description>
         <link>https://thegrid.ai/heathroberson-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 12:40:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 12:53:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/heathroberson-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tetons]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/heathroberson-com/f445b8c1-a4ba-482d-ae9f-32e10e04804a/index.html</link>
             <guid isPermaLink="false">f445b8c1-a4ba-482d-ae9f-32e10e04804a</guid>
             <pubDate>Wed, 01 Jun 2016 12:40:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bio]]></title>
+            <description><![CDATA[<p>Heath Robertson</p>]]></description>
+            <link>https://thegrid.ai/heathroberson-com/bio/index.html</link>
+            <guid isPermaLink="false">8002091d-81eb-4965-86b9-980ae19c6484</guid>
+            <pubDate>Wed, 01 Jun 2016 12:53:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
