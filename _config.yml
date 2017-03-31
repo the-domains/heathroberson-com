@@ -1,20 +1,4 @@
-name: HeathRoberson.com
-favicon: null
-layout_spectrum: 0.25482
 typography_spectrum: 1
-title: Heath Robertson
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9a3820'
@@ -26,4 +10,34 @@ color:
   lightness: 1
   saturation: 0.5
   rhythmicContrast: 1
-purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.25482
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Heath Robertson
+  email: Heath@HeathRobertson.com
+  url: www.HeathRobertson.com
+name: HeathRoberson.com
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/11114cb6-c49f-4723-8817-85b26104f79d.ico
+title: Heath Robertson
+purpose:
+  - type: contact
+    url: 'mailto:heath@heathrobertson.com'
+    label: Contact me
+content: []
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a3833a7-cca7-4e00-bd87-8ce12fe52078.png
+github: true
+content_rating:
+  adult: false
